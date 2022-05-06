@@ -11,7 +11,7 @@ entries:
       url: /
     - output: web,pdf
       title: Core
-      url: core.html
+      url: /core
     output: web
     title: test
   output: web
