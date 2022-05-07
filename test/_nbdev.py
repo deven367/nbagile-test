@@ -2,7 +2,11 @@
 
 __all__ = ["index", "modules", "custom_doc_links", "git_url"]
 
-index = {"normalize": "00_core.ipynb"}
+index = {"normalize": "00_core.ipynb",
+         "normalize2": "00_core.ipynb",
+         "fun": "00_core.ipynb",
+         "fun2": "00_core.ipynb",
+         "fun3": "00_core.ipynb"}
 
 modules = ["core.py"]
 
